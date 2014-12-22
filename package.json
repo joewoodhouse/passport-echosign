@@ -1,0 +1,20 @@
+{
+  "name": "passport-echosign",
+  "version": "0.0.1",
+  "description": "Adobe Echosign authentication strategy for Passport.",
+  "keywords": ["echosign", "passport", "auth", "authentication"],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joewoodhouse/passport-echosign.git"
+  },
+  "main": "lib/passport-echosign/index.js",
+  "author": {
+    "name": "Joe Woodhouse",
+    "email": "joewoodhouse30@gmail.com"
+  },
+  "license": "BSD",
+  "dependencies": {
+    "passport-oauth2": "^1.1.2",
+    "pkginfo": "~0.3.0"
+  }
+}
