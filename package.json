@@ -1,6 +1,6 @@
 {
   "name": "passport-echosign",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Adobe Echosign authentication strategy for Passport.",
   "keywords": ["echosign", "passport", "auth", "authentication"],
   "repository": {
